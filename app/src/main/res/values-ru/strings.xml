@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_control">Супер Квиз</string>
+    <string name="app_name">Супер Квиз</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="start">Начать!</string>
+    <string name="restart">Пройти еще раз!</string>
+    <string name="result">Ваш Результат</string>
+    <string name="quiz">QUIZ</string>
+    <string name="infoText">Пройди тест и узнай результат!</string>
+    <string name="textButtonDatePiker">Введите ваш возраст</string>
+    <string name="safeButton">Сохранить!</string>
+
+</resources>

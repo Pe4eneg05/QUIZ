@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_control">Super Quiz</string>
+    <string name="app_name">Super Quiz</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="start">Start!</string>
+    <string name="restart">Pass one more time!</string>
+    <string name="result">Your Result</string>
+    <string name="quiz">QUIZ</string>
+    <string name="infoText">Take the test and find out the result!</string>
+    <string name="textButtonDatePiker">Enter your age</string>
+    <string name="safeButton">Safe!</string>
+
+</resources>
